@@ -95,7 +95,7 @@ ipython_config.py
 __pypackages__/
 
 # other
-.DS_Store
+**/.DS_Store
 
 # Celery stuff
 celerybeat-schedule
